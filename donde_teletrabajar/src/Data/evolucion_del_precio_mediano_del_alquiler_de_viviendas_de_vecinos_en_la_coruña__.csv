@@ -1,0 +1,19 @@
+﻿"Año";"Periodo";"Precio mediano del alquiler mensual"
+"2015";"Año";"400"
+"2016";"Año";"419,79"
+"2017";"Año";"425"
+"2018";"Año";"438,33"
+;;
+;;
+"Métrica":"Precio mediano del alquiler mensual"
+"Fuente":"Ministerio de Fomento"
+"Clasificación":""
+"Unidad":"Precio mediano alquiler"
+"Escala":"Unidades"
+"EscalaFactorPotencia10":"0"
+"SonDatosNumericos":"True"
+;;
+;;
+"Url":"https://www.epdata.es/evolucion-precio-mediano-alquiler-viviendas-vecinos-lugar/dabdf7d0-c547-4a2b-9755-945c05f3ae75"
+"Titulo":"Evolución del precio mediano del alquiler de viviendas de vecinos en La Coruña﻿ "
+"Subtitulo":""
